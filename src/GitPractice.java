@@ -5,6 +5,7 @@ public class GitPractice {
 		int x = 10;
 		System.out.println(x);
 		System.out.println(y);
+		System.out.println("Hello World");
 	}
 	
 }
