@@ -6,6 +6,12 @@ public class GitPractice {
 		System.out.println(x);
 		System.out.println(y);
 		System.out.println("Hello World");
+		System.out.println("Welcome to git");
+		
+	}
+	
+	public static void printStudent(Student s) {
+		
 	}
 	
 }
